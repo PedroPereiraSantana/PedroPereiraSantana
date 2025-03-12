@@ -1,5 +1,5 @@
 # Olá, me chamo Pedro
-- 📚 Atualmente estou fazendo o bootcamp do Instituto Proa
+- 📚 Atualmente estou fazendo o curso profissionalizante do Instituto Proa
 - 🤓 Estudando Java e pretendo estudar Springboot
 - 😎 Pretendo me tornar um Desenvolvedor FullStack Java
 - 😁 Pronomes: Ele/Dele
