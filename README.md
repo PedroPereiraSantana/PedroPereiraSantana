@@ -36,9 +36,8 @@
 
 ### 📫 Contato
 
-- 📧 pedro.email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- 🌐 [Site pessoal (opcional)](https://seusite.dev)
+- 📧 pedro.santana9905@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-santan4/)
 
 ---
 
