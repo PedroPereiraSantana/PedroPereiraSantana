@@ -26,13 +26,6 @@
 
 ---
 
-### 🔥 Atividade recente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PedroPereiraSantana&bg_color=0d1117&color=00e7ff&line=5c9aff&point=ffffff&area=true&hide_border=true" alt="Activity graph"/>
-</p>
-
----
 
 ### 📫 Contato
 
