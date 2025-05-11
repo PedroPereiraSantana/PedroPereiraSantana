@@ -1,16 +1,47 @@
-# Olá, me chamo Pedro
-- 📚 Atualmente estou fazendo o curso profissionalizante do Instituto Proa
-- 🤓 Estudando Java e pretendo estudar Springboot
-- 😎 Pretendo me tornar um Desenvolvedor FullStack Java
-- 😁 Pronomes: Ele/Dele
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroPereiraSantana&show_icons=true&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPereiraSantana&layout=compact&theme=dark" width="300">
+<h1 align="center">Olá! Eu sou o Pedro 👋</h1>
+<p align="center">Desenvolvedor em formação | FATEC Franco da Rocha | Instituto PROA</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" />
-          
-          
-          
-        
-          
+---
+
+### 🚀 Tecnologias que estou usando:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+</p>
+
+---
+
+### 📊 Estatísticas GitHub:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPereiraSantana&show_icons=true&theme=tokyonight" alt="Pedro GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPereiraSantana&layout=compact&theme=tokyonight" alt="Pedro top languages"/>
+</p>
+
+---
+
+### 🔥 Atividade recente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PedroPereiraSantana&bg_color=0d1117&color=00e7ff&line=5c9aff&point=ffffff&area=true&hide_border=true" alt="Activity graph"/>
+</p>
+
+---
+
+### 📫 Contato
+
+- 📧 pedro.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- 🌐 [Site pessoal (opcional)](https://seusite.dev)
+
+---
+
+🧠 Sempre aprendendo algo novo e buscando oportunidades como **dev júnior** ou **estagiário em TI**.
+
 
