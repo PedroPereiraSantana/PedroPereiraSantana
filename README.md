@@ -21,7 +21,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPereiraSantana&show_icons=true&theme=tokyonight" alt="Pedro GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VersoKZ&layout=compact&theme=tokyonight" alt="Pedro top languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPereiraSantana&layout=compact&theme=tokyonight" alt="Pedro top languages"/>
 </p>
 
 ---
