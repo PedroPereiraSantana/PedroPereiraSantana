@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Pedro 👋</h1>
-<p align="center">Desenvolvedor em formação | FATEC Franco da Rocha | Instituto PROA</p>
+<p align="center">Desenvolvedor em FullStack | FATEC Franco da Rocha | Instituto PROA</p>
 
 ---
 
