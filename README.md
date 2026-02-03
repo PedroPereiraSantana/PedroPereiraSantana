@@ -1,39 +1,52 @@
-<h1 align="center">Olá! Eu sou o Pedro 👋</h1>
-<p align="center">Desenvolvedor em FullStack | FATEC Franco da Rocha | Instituto PROA</p>
+# 👋 Olá, eu sou Pedro
+
+🔐 Estudante de **Segurança da Informação / Cibersegurança**, com foco em **SOC / Blue Team**  
+💻 Background em **Desenvolvimento Web**, atualmente em transição de carreira para segurança
 
 ---
 
-### 🚀 Tecnologias que estou usando:
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-</p>
+## 🛡️ Em que estou focado agora
+- Google Cybersecurity Professional Certificate
+- Fundamentos de Segurança da Informação
+- Análise de logs e incidentes
+- Linux (linha de comando)
+- Conceitos de SOC e Blue Team
 
 ---
 
-### 📊 Estatísticas GitHub:
+## 🧠 Conhecimentos em desenvolvimento
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Noções de aplicações web e arquitetura
+- Lógica de programação
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPereiraSantana&show_icons=true&theme=tokyonight" alt="Pedro GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPereiraSantana&layout=compact&theme=tokyonight" alt="Pedro top languages"/>
-</p>
-
----
-
-
-### 📫 Contato
-
-- 📧 pedro.santana9905@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-santan4/)
+> Entender como sistemas e aplicações são construídos me ajuda a analisar
+> vulnerabilidades, incidentes e comportamentos suspeitos com mais clareza.
 
 ---
 
-🧠 Sempre aprendendo algo novo e buscando oportunidades como **dev júnior** ou **estagiário em TI**.
+## 🧪 O que você vai encontrar neste GitHub
+- 📁 Repositórios com **anotações de cibersegurança**
+- 🔍 Labs práticos de **Linux e segurança**
+- 🚨 Exercícios de **análise de incidentes**
+- 📊 Estudos sobre **logs, SIEM e resposta a incidentes**
+- 🧱 Projetos antigos de **web development** (base técnica)
 
+---
 
+## 🧰 Tecnologias e ferramentas
+- Linux (CLI)
+- Git / GitHub
+- Conceitos de SIEM
+- Fundamentos de redes
+- Segurança em ambientes corporativos
+
+---
+
+## 🎯 Objetivo profissional
+Atuar como **Analista de Segurança Júnior / SOC 1**,  
+com foco em monitoramento, detecção e resposta a incidentes.
+
+---
+
+📫 Sempre aberto a aprender, evoluir e trocar conhecimento.
